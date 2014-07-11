@@ -11,5 +11,3 @@ function sum_multiples_of_three_and_five(limit) {
 
   return sum;
 }
-
-console.log(sum_multiples_of_three_and_five(1000));
