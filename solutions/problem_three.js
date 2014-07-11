@@ -1,4 +1,4 @@
-function largest_prime_factor_of(number) {
+function largestPrimeFactorOf(number) {
   var i = 2;
 
   while (i <= number) {

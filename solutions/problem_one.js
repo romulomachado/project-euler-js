@@ -1,4 +1,4 @@
-function sum_multiples_of_three_and_five(limit) {
+function sumMultiplesOfThreeAndFive(limit) {
   var sum = 0;
 
   for(i=0; i<limit; i++) {

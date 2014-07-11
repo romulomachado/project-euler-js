@@ -6,7 +6,7 @@ function fibonacci(n) {
   }
 }
 
-function sum_even_fibonacci_numbers_until(limit) {
+function sumEvenFibonacciNumbersUntil(limit) {
   var i = 1,
       list = [],
       sum = 0;
